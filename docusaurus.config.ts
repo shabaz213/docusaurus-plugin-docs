@@ -64,23 +64,23 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'IBM DevOps Deploy Plugins',
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {
-          to: '/blog', 
-          label: 'Blog', 
-          position: 'left'
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Tutorial',
+        // },
+        // {
+        //   to: '/blog', 
+        //   label: 'Blog', 
+        //   position: 'left'
+        // },
         {
           href: 'https://github.com/shabaz213/docusaurus-plugin-docs',
           label: 'GitHub',
